@@ -9,9 +9,9 @@ var navigate = (function() {
 
 const buttons = document.querySelectorAll('.project');
 const overlay = document.querySelector('.overlay');
-/*const overlayImage = document.querySelector('.overlay__inner img');
+const overlayImage = document.querySelector('.overlay__inner img');
 
-function open(e) {
+/*function open(e) {
   overlay.classList.add('open');
   const src= e.currentTarget.querySelector('img').src;
   overlayImage.src = src;
