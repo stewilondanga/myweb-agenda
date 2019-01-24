@@ -17,9 +17,9 @@ function open(e) {
   overlayImage.src = src;
 }
 
-/*function close() {
+function close() {
   overlay.classList.remove('open');
 }
 
-buttons.forEach(button => button.addEventListener('click', open));
+/*buttons.forEach(button => button.addEventListener('click', open));
 overlay.addEventListener('click', close);
