@@ -117,13 +117,13 @@ button {
   z-index: 3;
 }
 
-/*.overlay.open {
+.overlay.open {
   display: grid;
   align-items: center;
   justify-items: center;
 }
 
-.overlay__inner {
+/*.overlay__inner {
   background: #ffffff;
   width: 700px;
   padding: 20px;
