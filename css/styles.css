@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css?family=Inconsolata|Merriweather");
 /*body {
   text-align: center;
   font-family: courier;
@@ -22,7 +23,7 @@
   height: 1.5em;
 }
 
-@import url("https://fonts.googleapis.com/css?family=Inconsolata|Merriweather");
+
 body {
   font-family: "Inconsolata", monospace;
   margin: 0;
