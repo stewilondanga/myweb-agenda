@@ -47,7 +47,7 @@ button {
   opacity: 0.9;
 }
 
-/*.project p {
+.project p {
   position: absolute;
   text-align: center;
   width: 100%;
@@ -56,7 +56,8 @@ button {
   letter-spacing: 2px;
   z-index: 3;
 }
-.project .grid__title {
+
+/*.project .grid__title {
   position: absolute;
   width: 100%;
   text-align: center;
