@@ -21,5 +21,5 @@ function close() {
   overlay.classList.remove('open');
 }
 
-/*buttons.forEach(button => button.addEventListener('click', open));
-overlay.addEventListener('click', close);
+buttons.forEach(button => button.addEventListener('click', open));
+/*overlay.addEventListener('click', close);
