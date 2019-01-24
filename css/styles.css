@@ -88,7 +88,7 @@ button {
   transition: all 0.3s ease-in-out;
 }
 
-/*.grid__overlay button {
+.grid__overlay button {
   background: none;
   outline: none;
   font-weight: 100;
@@ -98,7 +98,8 @@ button {
   text-transform: uppercase;
   padding: 10px;
 }
-.grid__overlay button:hover {
+
+/*.grid__overlay button:hover {
   transition: all 0.3s ease-in-out;
   background: #ffffff;
   color: #D1A39E;
