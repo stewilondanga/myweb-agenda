@@ -147,11 +147,11 @@ button {
   color: #D1A39E;
 }
 
-/*.project__image {
+.project__image {
   margin-left: -50%;
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
