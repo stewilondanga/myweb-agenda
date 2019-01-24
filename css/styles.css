@@ -42,11 +42,12 @@ button {
   overflow: hidden;
 }
 
-/*.project img {
+.project img {
   position: absolute;
   opacity: 0.9;
 }
-.project p {
+
+/*.project p {
   position: absolute;
   text-align: center;
   width: 100%;
