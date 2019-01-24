@@ -8,8 +8,8 @@ var navigate = (function() {
 })();
 
 const buttons = document.querySelectorAll('.project');
-/*const overlay = document.querySelector('.overlay');
-const overlayImage = document.querySelector('.overlay__inner img');
+const overlay = document.querySelector('.overlay');
+/*const overlayImage = document.querySelector('.overlay__inner img');
 
 function open(e) {
   overlay.classList.add('open');
