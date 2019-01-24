@@ -71,11 +71,11 @@ button {
   letter-spacing: 2px;
 }
 
-/*.project:hover .grid__overlay {
+.project:hover .grid__overlay {
   transform: translateY(0%);
 }
 
-.grid__overlay {
+/*.grid__overlay {
   background: rgba(229, 182, 177, 0.9);
   height: 100%;
   grid-column: 1 / -1;
