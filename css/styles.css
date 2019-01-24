@@ -106,7 +106,7 @@ button {
   transform: scale(1.05);
 }
 
-/*.overlay {
+.overlay {
   position: fixed;
   background: rgba(71, 69, 69, 0.7);
   top: 0;
@@ -117,7 +117,7 @@ button {
   z-index: 3;
 }
 
-.overlay.open {
+/*.overlay.open {
   display: grid;
   align-items: center;
   justify-items: center;
