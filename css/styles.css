@@ -75,7 +75,7 @@ button {
   transform: translateY(0%);
 }
 
-/*.grid__overlay {
+.grid__overlay {
   background: rgba(229, 182, 177, 0.9);
   height: 100%;
   grid-column: 1 / -1;
@@ -87,7 +87,8 @@ button {
   transform: translateY(101%);
   transition: all 0.3s ease-in-out;
 }
-.grid__overlay button {
+
+/*.grid__overlay button {
   background: none;
   outline: none;
   font-weight: 100;
